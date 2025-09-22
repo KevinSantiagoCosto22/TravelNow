@@ -67,6 +67,7 @@ public class Main {
         guardarReserva(reserva);
 
         cliente.mostrarReservas();
+        sc.close();
     }
 
     private static List<PaqueteDeViaje> cargarPaquetes() {
