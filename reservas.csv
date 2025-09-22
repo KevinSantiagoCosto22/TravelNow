@@ -1,0 +1,5 @@
+idReserva;idCliente;nombreCliente;fechaReserva;fechaViaje;costoTotal;paquetes
+
+777;23;kevibn;2025-09-22;2025-09-27;0.0;
+01;1016717501;Kevin Costo;2025-09-22;2025-09-29;1500.0;San Andrés,
+01;74180553;Edgar Costo;2025-09-22;2025-10-02;4500.0;San Andrés,San Andrés,San Andrés,
